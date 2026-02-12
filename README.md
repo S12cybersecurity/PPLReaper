@@ -11,7 +11,7 @@ PPLReaper enables controlled interaction with the PPL protection level of runnin
 
 - **Remove PPL**: Strip PPL protection from a specified process.
 
-**Add PPL**: Apply PPL protection to a specified process.
+- **Add PPL**: Apply PPL protection to a specified process.
 
 The architecture separates responsibilities cleanly:
 
@@ -30,6 +30,26 @@ Communicates with the driver to issue commands and manage targets.
 - Runtime PPL assignment
 
 - Minimal and focused IOCTL interface
+
+## Usage
+The userland client (PPLUManipulator.exe) communicates with the kernel driver via DeviceIoControl.
+
+```
+PPLUManipulator.exe <PID> <command>
+```
+
+#### Commands
+- **get:** Show current PPL protection status of the target process
+- **protect:** Set process as Protected Process Light (Antimalware signer)
+- **unprotect:** Remove PPL protection from the target process
+
+#### Examples
+```
+PPLUManipulator.exe 1234 get
+PPLUManipulator.exe 5678 protect
+PPLUManipulator.exe 5678 unprotect
+```
+
 
 ## Disclaimer
 
