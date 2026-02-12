@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s12de\\Documents\\Github\\PPLReaper\\PPLUManipulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7D6953-B21B-48B0-9F72-9CFD2015AF54}|PPLUManipulator\\PPLUManipulator.vcxproj|C:\\Users\\s12de\\Documents\\Github\\PPLReaper\\PPLUManipulator\\PPLUManipulator\\PPLUManipulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC7D6953-B21B-48B0-9F72-9CFD2015AF54}|PPLUManipulator\\PPLUManipulator.vcxproj|solutionrelative:PPLUManipulator\\PPLUManipulator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PPLUManipulator.cpp",
+              "DocumentMoniker": "C:\\Users\\s12de\\Documents\\Github\\PPLReaper\\PPLUManipulator\\PPLUManipulator\\PPLUManipulator.cpp",
+              "RelativeDocumentMoniker": "PPLUManipulator\\PPLUManipulator.cpp",
+              "ToolTip": "C:\\Users\\s12de\\Documents\\Github\\PPLReaper\\PPLUManipulator\\PPLUManipulator\\PPLUManipulator.cpp",
+              "RelativeToolTip": "PPLUManipulator\\PPLUManipulator.cpp",
+              "ViewState": "AgIAACkAAAAAAAAAAAAewDYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-12T08:46:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1817,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

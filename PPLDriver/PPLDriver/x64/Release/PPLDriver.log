@@ -1,0 +1,27 @@
+﻿  Building 'PPLDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\PPLDriver.inf
+  Stamping [Version] section with DriverVer=02/12/2026,9.54.27.764
+  main.cpp
+  PPLDriver.vcxproj -> C:\Users\s12de\Documents\Github\PPLReaper\PPLDriver\x64\Release\PPLDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\s12de\Documents\Github\PPLReaper\PPLDriver\x64\Release\PPLDriver.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\s12de\Documents\Github\PPLReaper\PPLDriver\x64\Release\PPLDriver\ppldriver.cat
+  Set catalog attribute.
+  WdkVersion: 10.0.26100.0
+  Set catalog attribute.
+  WdkAssemblyVersion: 10.0.26100.6584
+  Done Adding Additional Store
+  Successfully signed: C:\Users\s12de\Documents\Github\PPLReaper\PPLDriver\x64\Release\PPLDriver\ppldriver.cat
+  
